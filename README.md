@@ -15,4 +15,6 @@ Clone down this repository. Tested on `Windows 10`. Compile and run project usin
 
 ## Configuration
 
+Click on the window to cycle between different tick rates (game speed).
+
 See the `constants.hpp` file for list of all constants. Experiment with these values to produce different results. Changes could include the number of layers in the network, the number of neurons in each layer, the pipe gap, the population size, etc.
